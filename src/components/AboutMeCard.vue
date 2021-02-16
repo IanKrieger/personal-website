@@ -31,7 +31,7 @@
       <div>
         <h6 class="modal-header">What I like to do in my free time</h6>
         <p class="text-body">
-          Recently a lot of my free time has been taken up ny my dog, Hazel. She is an Australian Shepard puppy!
+          Recently a lot of my free time has been taken up by my dog, Hazel. She is an Australian Shepard puppy!
           I like to go to different breweries around Columbus (if you didn't know, there are a lot). My favorite being
           Pretentious Brewing. They make only sour beers, so be prepared!
           I also like to try different restaurants as well! My favorite being Wolfe's Ridge (which also has some of my favorite beers).

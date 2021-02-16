@@ -6,7 +6,6 @@
       <b-nav-item @click="$bvModal.show('work-modal')">Work</b-nav-item>
       <b-nav-item @click="$bvModal.show('skills-modal')">Skills</b-nav-item>
       <b-nav-item @click="$bvModal.show('contact-modal')">Contact</b-nav-item>
-      <b-nav-item v-b-toggle.sidebar-1>Help</b-nav-item>
     </b-navbar-nav>
   </b-navbar>
 </template>
