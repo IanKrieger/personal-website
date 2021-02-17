@@ -3,6 +3,7 @@
     <b-carousel
         id="carousel-1"
         :interval="0"
+        v-model="slide"
         controls
         fade
         indicators
@@ -36,6 +37,11 @@
 <script>
 export default {
   name: "CarouselSlide",
+  props: {
+    slide: {
+      value: 0
+    }
+  }
 }
 </script>
 
