@@ -1,7 +1,7 @@
 <template>
   <div class="flex">
-    <nav-bar-items />
-    <carousel-slide />
+    <nav-bar-items @change-slide="changeSlide"/>
+    <carousel-slide :slide="slide"/>
     <about-me-card />
     <contact-card />
     <skills-card />
@@ -22,6 +22,9 @@ import HelpSideBar from "@/components/HelpSideBar";
 export default {
   name: 'App',
   components: {HelpSideBar, WorkCard, SkillsCard, ContactCard, AboutMeCard, NavBarItems, CarouselSlide},
+  data: () => ({
+    slide: 0
+  }),
   mounted() {
     document.getElementsByTagName("img").forEach(item => {
       item.style["height"] = `${window.innerHeight}px`;
@@ -34,6 +37,11 @@ export default {
         item.style["width"] = `${window.innerWidth}px`;
       });
     });
+  },
+  methods: {
+    changeSlide(value) {
+      this.slide = value;
+    }
   }
 }
 </script>
