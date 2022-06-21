@@ -7,9 +7,11 @@
       <div class="d-md-inline-block">
         <h6 class="modal-header">Hometown and Current Location</h6>
         <p class="text-body">
-          I grew up in a suburb near Cleveland Ohio, where I lived for the majority of my life. I now live in Columbus, Ohio which is where I have lived for all of my professional life.
-          In Columbus I've worked at J.P Morgan Chase as a back-end software engineer.
-          I now work at Updox as a full stack engineer. Using a mix of languages to contribute to the overall product.
+          I grew up in a suburb near Cleveland Ohio, where I lived for the majority of my life.
+          I now live in Dayton, Ohio. I recently moved there from Columbus, OH.
+          In Columbus I worked at J.P Morgan Chase as a back-end software engineer.
+          I also worked at Updox as a full stack engineer.
+          I currently work at Circulo Health remotely in Dayton as a Senior Software Engineer.
         </p>
       </div>
       <div>
@@ -22,20 +24,19 @@
       <div>
         <h6 class="modal-header">What tech I'm passionate about</h6>
         <p class="text-body">I like to make sure I'm up to date on current technology trends.
-          One of the things that interests me the most is Machine Learning.
-          I have actually built a small python script that processes lines of text in a file and then creates it's own original output.
-          I also like AWS for infrastructure, I think any new app could be written to go to the cloud both quickly and securely.
+          One of the things that interests me the most is Serverless Architecture.
+          I think any new app could be written to go to the cloud both quickly and securely.
+          I also think machine learning is pretty cool, I have actually built a small python script that processes lines of text in a file and then creates it's own original output.
           I am also having a lot of fun with Vue applications, it's a cool JS framework. That's what this is built in!
         </p>
       </div>
       <div>
         <h6 class="modal-header">What I like to do in my free time</h6>
         <p class="text-body">
-          Recently a lot of my free time has been taken up by my dog, Hazel. She is an Australian Shepard puppy!
-          I like to go to different breweries around Columbus (if you didn't know, there are a lot). My favorite being
-          Pretentious Brewing. They make only sour beers, so be prepared!
-          I also like to try different restaurants as well! My favorite being Wolfe's Ridge (which also has some of my favorite beers).
-          The rest of my time is spent coding or playing video games. Recently I have been playing through Hades. An amazing game!
+          Recently a lot of my free time has been taken up by my dog, Hazel. She is an Australian Shepard!
+          There are a few cool spots around Dayton that my wife Molly and I enjoy going to.
+          Our favorite restaurant is Thai 9, and our favorite Brewery is Eudora.
+          The rest of my time is dedicated to projects around the house, which is fun but time consuming!
         </p>
       </div>
     </div>
