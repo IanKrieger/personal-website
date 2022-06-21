@@ -5,49 +5,59 @@
   </template>
     <div class=horizontal-lists>
       <div>
-        <h6><em>3 + years</em></h6>
+        <h6><em>Backend</em></h6>
         <ul>
+          <li>Typescript</li>
+          <li>Node.js</li>
+          <li>GoLang</li>
+          <li>Javascript</li>
           <li>Java</li>
-          <li>SpringBoot</li>
-          <li>Maven</li>
-          <li>Git</li>
-          <li>REST</li>
-          <li>HTML5 / CSS</li>
-          <li>Junit + Mockito</li>
+          <li>Springboot</li>
+          <li>Mockito</li>
+          <li>Testify</li>
         </ul>
       </div>
       <div>
-        <h6><em>1 - 2 + years</em></h6>
+        <h6><em>Frontend</em></h6>
         <ul>
-          <li>SQL</li>
-          <li>NoSQL</li>
-          <li>VueJS</li>
-          <li>AngularJS</li>
-          <li>Kotlin</li>
-          <li>Kafka</li>
-          <li>CI/CD (Jenkins)</li>
+          <li>React</li>
+          <li>React Query</li>
+          <li>Material UI</li>
+          <li>Vue</li>
+          <li>Jest</li>
         </ul>
       </div>
       <div>
-        <h6><em>0 - 1 + years</em></h6>
+        <h6><em>Infrastructure</em></h6>
         <ul>
-          <li>Python</li>
+          <li>Terraform</li>
           <li>AWS</li>
-          <li>GraphQL</li>
-          <li>Ruby</li>
-          <li>ReactJs</li>
+          <li>SQL (RDS, postgres)</li>
+          <li>NoSql (Dynamo)</li>
+          <li>Docker</li>
+          <li>Git</li>
+          <li>Gitlab</li>
+          <li>Github</li>
+          <li>Kafka</li>
         </ul>
       </div>
       <div>
-        <h6><em>Soft Skills</em></h6>
+        <h6><em>Conceptual</em></h6>
         <ul>
-          <li>Hard Working</li>
-          <li>Efficient Communicator</li>
-          <li>Teamwork</li>
-          <li>Agile Methodology</li>
-          <li>SDLC / OOP</li>
-          <li>Time Management</li>
-          <li>Startup Experience</li>
+          <li>OOP</li>
+          <li>CI/CD</li>
+          <li>System Design</li>
+          <li>Serverless Architecture</li>
+          <li>Microservice Architecture</li>
+          <li>Event Driven Architecture</li>
+          <li>REST / HTTP API Design</li>
+          <li>Agile</li>
+          <li>Scrum</li>
+          <li>Kanban</li>
+          <li>Jira</li>
+          <li>Confluence</li>
+          <li>Postman</li>
+          <li>Lucid</li>
         </ul>
       </div>
     </div>
